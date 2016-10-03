@@ -17,7 +17,8 @@ a:hover {
     color: #e4b532;
 }
 
-/* Hero
+/*
+Hero
 */
 
 .hero {
@@ -41,7 +42,6 @@ a:hover {
 
 .hero-card-description {
     font-family: georgia, serif;
-    margin: 0;
     font-size: 30px;
     font-weight: 300;
     margin: 20px 0;
@@ -53,10 +53,56 @@ a.hero-card-link {
     font-size: 18px;
     border. 2px solid #efefef;
     padding: 5px 20px;
-    
 }
 
 a.hero-card-link:hover {
     color. #D69E00;
     border-color. #D69E00;
+}
+
+/*
+Navigation
+*/
+
+.main-nav {
+    margin: 20px auto;
+}
+a.nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 10px 5px;
+    padding: 10px 15px;
+    border: 2px solid rgba(255, 255, 255, 0);
+}
+a.nav-link:hover {
+    color: #FFD86B;
+    border-color. #FFD86B
+}
+
+/*
+Main Content
+*/
+
+.main-content {
+    padding: 20px;
+    text-align: center;
+}
+
+/*
+Footer
+*/
+
+footer {
+    background-color: #333;
+    color: #999;
+    padding: 20px;
+    text-align: center;
+}
+.footer-link {
+    color: #AB810A;
+    text-decoration: none;
+}
+.footer-link:hover {
+ color: #D69E00;   
 }
