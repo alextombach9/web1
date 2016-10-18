@@ -257,3 +257,9 @@ dd {
     text-align: center;
     overflow: auto;
 }
+
+.hero2 {
+    background-image: url('images/hero2.jpg');
+    text-align: center;
+    overflow: auto;
+}
