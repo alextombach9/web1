@@ -53,7 +53,7 @@ font-size: 24px;
 }
 .card-description {
     padding: 0 20px;
-    margin 0 0 20px 0;
+    margin: 0 0 20px 0;
     color: #999;
 }
 
@@ -91,13 +91,13 @@ a.hero-card-link {
     text-decoration: none;
     color: #efefef;
     font-size: 18px;
-    border. 2px solid #efefef;
+    border: 2px solid #efefef;
     padding: 5px 20px;
 }
 
 a.hero-card-link:hover {
-    color. #D69E00;
-    border-color. #D69E00;
+    color: #D69E00;
+    border-color: #D69E00;
 }
 
 /*
@@ -127,7 +127,7 @@ a.nav-link {
 }
 a.nav-link:hover {
     color: #FFD86B;
-    border-color. #FFD86B
+    border-color: #FFD86B;
     background-color: rgba (0, 0, 0, 0.4);
 }
 
