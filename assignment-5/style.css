@@ -252,8 +252,8 @@ dd {
     margin: 1em auto;
 }
 
-.hero2 {
-    background-image: url('images/hero2.jpg');
+.hero1 {
+    background-image: url('images/hero1.jpg');
     text-align: center;
     overflow: auto;
 }
