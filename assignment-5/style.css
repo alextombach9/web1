@@ -162,7 +162,7 @@ Main Content
 Footer
 */
 
-footer {
+.footer {
     background-color: #333;
     color: #999;
     padding: 20px;
@@ -250,4 +250,10 @@ dd {
 
 .about-list li {
     margin: 1em auto;
+}
+
+.hero3 {
+    background-image: url('images/coast.jpg');
+    text-align: center;
+    overflow: auto;
 }
