@@ -25,7 +25,7 @@ a:hover {
 
 .card {
     background-color: #fff;
-    box-shadow: 2px px 3px rgba(0, 0, 0, 0.1);
+    box-shadow: 2px px 3px rgba(0,0,0,0.2);
     width: 300px;
     min-height: 310px;
     margin: 10px;
@@ -42,7 +42,7 @@ a:hover {
 
 .card:hover {
     transform: scale(1.025);
-    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0,3);
 }
 
 .card-title {
@@ -197,21 +197,11 @@ Search
 Assignments
 */
 
-.assignment-list dt {
-    margin-top: 20px;
-}
-
-.assignment-list a {
-    color: #3c8bce;
-    font-size: 18px;
-}
-
-.assignment-list a: hover {
-    color: #115690;
-}
-
-.assignment-list dd {
-    margin-left: 0;
+.assignment-list {
+    border: 4px solid #ddd;
+    padding: 20px;
+    margin: 20px auto;
+    width: 860px;
 }
 
 /*
@@ -220,54 +210,18 @@ Coffee
 
 .coffee-quote {
     font-size: 30px;
-    padding: 20px;
-    margin: 20px 15px;
-    border-left: 5px solid #d69e00;
-    
-cite {
-    display: block;
-    color: #666;
-    font-size: 16px;
+    color: #16445f;
 }
-
-.menu th {
-    padding: 10px;
-}
-
-.menu .size {
-    min-width: 150px;
-    text-align: right;
-    font-size: 14px;
-}
-
-.menu td {
-    padding: 10px 10px;
-    vertical-align: top;
-    text-align: right;
-}
-
-.menu dd {
-    margin-left: 0;
-    color: #666;
-    font-style: italic;
-    font-size: 14px;
-}
-.menu .label {
-    text-align: left;
-}
-
 .menu {
     border: 4px solid #ddd;
     text-align: left;
     padding: 20px;
 }
-
 dt {
 font-size: 20px;
 font-weight:bold;
 margin-bottom: 5px;
 }
-
 dd {
     color: #666;
     margin-left: 20px;
