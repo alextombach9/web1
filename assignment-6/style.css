@@ -68,8 +68,7 @@ Hero
 }
 .hero-card {
     border: 2px solid #fff;
-    color: #000000;
-    opacity: 0.8;
+    color: #efefef;
     padding: 50px;
     width: 800px;
     margin: 100px auto 50px auto;
