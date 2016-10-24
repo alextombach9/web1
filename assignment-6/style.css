@@ -62,16 +62,8 @@ Hero
 */
 
 
-.hero1 {
+.hero {
   background-image: url('images/hero1.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center top;
-  background-attachment: fixed;
-}
-
-.hero2 {
-  background-image: url('images/hero2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center top;
