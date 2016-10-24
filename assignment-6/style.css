@@ -61,16 +61,10 @@ font-size: 24px;
 Hero
 */
 
-
 .hero {
-  background-image: url('images/hero1.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center top;
-  background-attachment: fixed;
-}
-
-
+    background-color: #16445f;
+    text-align: center;
+    overflow: auto;
 }
 .hero-card {
     border: 2px solid #fff;
@@ -220,8 +214,6 @@ Assignments
     margin-left: 0;
 }
 
-
-
 /*
 Coffee
 */
@@ -270,7 +262,17 @@ cite {
     padding: 20px;
 }
 
+dt {
+font-size: 20px;
+font-weight:bold;
+margin-bottom: 5px;
+}
 
+dd {
+    color: #666;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
 
 /* About */
 
@@ -299,4 +301,16 @@ cite {
 
 .about-list li {
     margin: 1em auto;
+}
+
+.hero1 {
+    background-image: url('images/hero1.jpg');
+    text-align: center;
+    overflow: auto;
+}
+
+.hero2 {
+    background-image: url('images/hero2.jpg');
+    text-align: center;
+    overflow: auto;
 }
