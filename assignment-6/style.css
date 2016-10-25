@@ -240,6 +240,13 @@ Assignments
     margin-left: 0;
 }
 
+.assignment-list dl {
+    border: 4px solid #ddd;
+    padding: 20px;
+    width: 600px;
+    margin: 20px auto;
+}
+
 
 /*
 Coffee
