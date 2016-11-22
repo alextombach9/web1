@@ -1,21 +1,71 @@
-div{
-	border: solid 3px;
-	padding: 50px;
-	padding-right: 10;
-	margin: 20px;
+/*
+General Styling
+*/
+
+.hero {
+    color: #ffffff;
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+    background-color: #222;
 }
-.one{
-	border-color: #d8276f;
+    
+
+
+.hero-index {
+    background-image: url('index.png');
 }
-.two{
-	border-color: #27b3c1;
+
+.hero-skiing {
+    background-image: url('skiing.png');
 }
-.three{
-	border-color: #f7af3c;
+
+.hero-huts {
+    background-image: url('huts.png');
 }
-.four{
-	border-color: #7daf2e;
+
+.hero-apresski {
+    background-image: url('apresski.png');
 }
-.five{
-	border-color: #aa63d3;
+
+.nav-link {
+    text-decoration: none;
+    height: 40px;
+    line-height: 38px;
+    color: #ffffff;
+    font-size: 20px;
+    margin: 10px 5px;
+    padding: 0px 15px;
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    transition: all 0.5s ease;
+}
+
+a.nav-link:hover {
+    color: #FFD86B;
+    border-color: #FFD86B;
+    background-color: rgba (0, 0, 0, 0.4);
+}
+
+.logo {
+    float: left;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 0:
+    height: 0;
+    color: rgba (255, 255, 255, 0);
+    padding: 60px 120px 0 0;
+    background-image: url('logo.png');
+    background-size: 120px 60px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 3px;
+    transition: all 0.2s ease;
+}
+
+#logo:hover {
+    background-color: rgba(0, 0, 0, 0.4);
 }
