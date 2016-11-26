@@ -4,12 +4,13 @@ General Styling
 
 .hero {
     color: #ffffff;
-    min-height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     text-align: center;
     background-color: #222;
+    overflow: auto;
+    min-height: 600px;
 }
     
 
