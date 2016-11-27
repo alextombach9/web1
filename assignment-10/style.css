@@ -86,3 +86,29 @@ a.nav-link:hover {
 h1 {
     text-shadow: 2px 2px #000000;
 }
+
+.main-content {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.left-box {
+    width: 33.3%;
+    height: auto;
+    display: inline-block;
+    background-image: url('images/Ich.jpg')
+}
+
+.middle-box {
+    width: 33.3%;
+    height: auto;
+    display: inline-block;
+    background-image: url('images/kristall.JPG')
+}
+
+.right-box {
+    width: 33.3%;
+    height: auto;
+    display: inline-block;
+    background-image: url('images/Postalm.JPG')
+}
