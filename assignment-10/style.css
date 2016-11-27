@@ -62,14 +62,17 @@ a.nav-link:hover {
 
 .logo {
     float: left;
-    margin-right: 100px;
+    margin-right: 300px;
+    width: 0:
+    height: 0;
     color: rgba (255, 255, 255, 0);
+    padding: 60px 160px 0 0;
     background-image: url('logo.png');
-    background-size: 120px 60px;
+    background-size: 100px 40px;
     background-position: center;
     background-repeat: no-repeat;
-    height: 0;
-    width: 0;
+    border-radius: 3px;
+    transition: all 0.2s ease;
 }
 
 #logo:hover {
