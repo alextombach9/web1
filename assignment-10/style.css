@@ -94,21 +94,22 @@ h1 {
 
 .left-box {
     width: 33.3%;
-    height: auto;
+    height: 200px;
     display: inline-block;
     background-image: url('images/Ich.jpg')
 }
 
 .middle-box {
     width: 33.3%;
-    height: auto;
+    height: 200px;
     display: inline-block;
     background-image: url('images/kristall.JPG')
 }
 
 .right-box {
     width: 33.3%;
-    height: auto;
+    height: 200px;
     display: inline-block;
     background-image: url('images/Postalm.JPG')
+    
 }
