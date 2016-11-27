@@ -91,10 +91,10 @@ h1 {
 }
 
 .footer {
-    background-color: #000000;
-    position: fixed;
-    background-size: cover;
-    
+    background-color: #333;
+    color: #999;
+    padding: 20px;
+    text-align: center;
 }
 
 
@@ -137,5 +137,8 @@ text-align: center center;
     width: 960px;
 }
 
+.clear {
+    clear: both;
+}
 
 
