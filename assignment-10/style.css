@@ -103,7 +103,7 @@ h1 {
 .card {
     background-color: #fff;
     width: 300px;
-    min-height: 300px;
+    min-height: 200px;
     margin: 10px;
     float: left;
     text-decoration: none;
@@ -132,8 +132,9 @@ text-align: center center;
 .main-content {
     font-family: 'Arial', sans-serif;
     text-align: center;
+    margin: 0 auto;
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
     width: 960px;
 }
 
