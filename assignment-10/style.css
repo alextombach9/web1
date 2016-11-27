@@ -90,29 +90,52 @@ h1 {
     text-shadow: 2px 2px #000000;
 }
 
+.footer {
+    background-color: #000000;
+    position: fixed;
+    background-size: cover;
+    
+}
+
+
+/* Home */
+
+.card {
+    background-color: #fff;
+    width: 300px;
+    min-height: 300px;
+    margin: 10px;
+    float: left;
+    text-decoration: none;
+    color #333;
+    transition: all .2s ease;
+    position: center;
+}
+
+.card img {
+    margin-bottom: 10px;
+    width: 300px;
+}
+
+
+
+.card-title {
+padding: 0 20px;
+margin: 20px 0 10px 0;
+font-family: Arial, sans-serif;
+font-size: 20px;
+text-decoration: none;
+text-align: center center;
+}
+
+
 .main-content {
     font-family: 'Arial', sans-serif;
     text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 960px;
 }
 
-.left-box {
-    width: 33.3%;
-    height: 200px;
-    display: inline-block;
-    background-image: url('images/Ich.jpg')
-}
 
-.middle-box {
-    width: 33.3%;
-    height: 200px;
-    display: inline-block;
-    background-image: url('images/kristall.JPG')
-}
 
-.right-box {
-    width: 33.3%;
-    height: 200px;
-    display: inline-block;
-    background-image: url('images/Postalm.JPG')
-    
-}
