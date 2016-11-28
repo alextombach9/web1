@@ -4,6 +4,7 @@ General Styling
 
 body {
     width:100%;
+    margin:0;
 }
 
 
@@ -72,7 +73,7 @@ a.nav-link:hover {
     width: 0:
     height: 0;
     color: rgba (255, 255, 255, 0);
-    padding: 60px 160px 0 0;
+    padding: 50px 160px 0 0;
     background-image: url('logo.png');
     background-size: 100px 40px;
     background-position: center;
