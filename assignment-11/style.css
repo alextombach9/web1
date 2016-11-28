@@ -108,21 +108,17 @@ h1 {
 /* Home */
 
 .card {
+    display: inline-block;
     background-color: #fff;
-    width: 300px;
-    min-height: 250px;
-    margin: 10px;
-    margin-bottom: 100px;
-    float: left;
+    width: 33%;
     text-decoration: none;
-    color #333;
     transition: all .2s ease;
-    position: center;
+    
 }
 
 .card img {
     margin-bottom: 10px;
-    width: 300px;
+    width: 100%;
 }
 
 .card:hover {
@@ -142,12 +138,13 @@ color: #000000;
 
 
 .main-content {
+    overflow:hidden;
     font-family: 'Arial', sans-serif;
     text-align: center;
     margin: 0 auto;
-    margin-top: 100px;
-    margin-bottom: 200px;
-    width: 960px;
+    margin-top: 55px;
+    margin-bottom: 60px;
+    width: 100%;
 }
 
 .clear {
