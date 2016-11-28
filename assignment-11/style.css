@@ -120,8 +120,8 @@ h1 {
     height:auto;
     margin-bottom: 10px;
     width: 100%;
-    -webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
+    -webkit-filter: grayscale(70%);
+	filter: grayscale(70%);
 	-webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
 }
