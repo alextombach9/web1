@@ -1,0 +1,42 @@
+
+Alexander Tombach's To Do List
+
+
+
+Homepage:
+
+Change hover
+Add hover effects to columns
+move logo more to the center
+
+Progress: Pretty Much Done
+
+
+
+Skiing:
+
+Add text
+apply css style from index page
+line up things like on the mockup
+
+Progress: Basic Structure of nav bar and splashpage is there
+
+
+
+Huts:
+
+Apply CSS style
+Change splash photo
+
+Progress: Basic Structure of nav bar and splashpage is there
+
+
+
+Apresski Party:
+
+Change Naming of the page to Apresski Party
+apply CSS styles
+Add hover to column texts
+Change headlines
+
+Progress: Basic Structure of nav bar and splashpage is there
