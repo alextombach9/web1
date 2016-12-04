@@ -158,6 +158,20 @@ color: #000000;
     width: 100%;
 }
 
+#skiing.main-content {
+    text-align: none;
+    color: #000000;
+    background-color: #ffffff;
+    
+}
+
+.paragraph {
+    width: 30%;
+    text-align: justify;
+    padding: 10px 10px 10px 10px;
+    display: inline-block;
+}
+
 .clear {
     clear: both;
 }
