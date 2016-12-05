@@ -173,13 +173,7 @@ color: #000000;
     display: inline-block;
 }
 
-#left.paragraph {
-    float: left;
-}
 
-#right.paragraph {
-    float: right;
-}
 
 .clear {
     clear: both;
