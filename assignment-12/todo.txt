@@ -5,9 +5,8 @@ Alexander Tombach's To Do List
 
 Homepage:
 
-Change hover
-Add hover effects to columns
 move logo more to the center
+
 
 Progress: Pretty Much Done
 

@@ -102,6 +102,8 @@ h1 {
     color: #999;
     padding: 20px;
     text-align: center;
+    font-family: 'Arial', sans-serif;
+    
 }
 
 
@@ -122,8 +124,8 @@ h1 {
     width: 100%;
     -webkit-filter: grayscale(70%);
 	filter: grayscale(70%);
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
+	-webkit-transition: .2s ease-in-out;
+	transition: .2s ease-in-out;
 }
 
 .card:hover img {
