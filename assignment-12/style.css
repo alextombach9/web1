@@ -138,7 +138,7 @@ h1 {
 
 
 .card-title {
-padding: 0 25px;
+padding: 0px 0px 0px 0px;
 margin: 25px 0 25px 0;
 font-family: Arial, sans-serif;
 font-size: 20px;
@@ -163,6 +163,10 @@ color: #000000;
     color: #000000;
     background-color: #ffffff;
     
+}
+
+#home.main-content {
+    margin-top: 4px;
 }
 
 .paragraph {
