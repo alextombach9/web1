@@ -177,7 +177,12 @@ color: #000000;
     display: inline-block;
 }
 
-
+.line {
+    align: center;
+    width: 80%;
+    height: 1px;
+    margin-bottom: 60px;
+}
 
 .clear {
     clear: both;
