@@ -1,6 +1,12 @@
 
 
 /* Set container properties and size */
+
+body {
+    width:100%;
+    margin:0;
+}
+
 .container{
   margin: 0 auto;
   width: 724px;
